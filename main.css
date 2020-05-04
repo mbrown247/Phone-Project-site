@@ -1,0 +1,50 @@
+.phone-pics {
+  display: flex;
+  justify-content: space-between;
+  width: 95vw;
+  height: 50vh;
+
+}
+
+twitter {
+color: blue;
+}
+
+facebook {
+color: darkblue
+}
+
+instagram {
+  color: rgb(251, 168, 13)
+}
+visa {
+  color: blue;
+}
+
+discover {
+  color: orange;
+}
+
+amex {
+  color: blue;
+}
+
+mastercard {
+  color: yellow;
+}
+
+moneybill {
+  color: green;
+}
+
+copyright {
+  font-size: 20px;
+}
+
+p {
+  font-size: 27px;
+}
+
+h1 {
+  font-size: 45px;
+}
